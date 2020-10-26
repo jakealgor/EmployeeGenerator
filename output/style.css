@@ -1,0 +1,14 @@
+.team-heading {
+    background-color: grey;
+    border-bottom: black inset 5px;
+}
+
+.card-header {
+    background-color: lightblue);
+    border-bottom: black inset 5px;
+}
+
+.card {
+    border: black inset 5px;
+    margin: auto;
+}
